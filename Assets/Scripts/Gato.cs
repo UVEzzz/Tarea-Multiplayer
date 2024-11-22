@@ -8,6 +8,6 @@ public class Gato : Animal
 
     public override void HacerSonido()
     {
-        Debug.Log($"{Nombre} dice: Miau!");
+        Debug.Log($"{Nombre} dice: GRR!");
     }
 }
